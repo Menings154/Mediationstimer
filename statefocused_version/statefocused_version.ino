@@ -47,13 +47,6 @@ void setup() {
 }
 
 void loop() {
-  state = to_state1();
-  delay(1000);
-  state = to_state2();
-  delay(1000);
-  state = to_state3();
-  delay(1000);
-  state = to_state0();
-  delay(1000);
+
 
 }
